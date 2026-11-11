@@ -1,0 +1,29 @@
+h1{
+    color: rgb(62, 115, 115);
+    font-size: 55px;
+}
+p{
+    color : black;
+    font-size: 25px;
+}
+button{
+    color:crimson;
+    border: 2px double black;
+    padding: 10px;
+    border-radius: 10px;
+
+
+}
+* {
+    box-sizing: border-box;
+}
+body { 
+    background-color: #E6E6FA;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+p2{ 
+    color: rgb(78, 14, 78);
+    font-size: 25px;
+    padding: 10px;
+    }
